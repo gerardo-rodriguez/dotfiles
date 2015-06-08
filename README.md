@@ -1,3 +1,3 @@
 # Hello World!
 
-Some dotfile goodness. :)
+Some dotfile goodness, because, this is cool. :)
