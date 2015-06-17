@@ -13,10 +13,9 @@ alias .....="cd ../../../.."
 # alias p="cd ~/Projects"
 alias dev="cd ~/Development"
 alias g="git"
-alias gs="git status"
-alias gd="git diff"
-alias gp="git pull"
-# alias h="history"
+# alias gs="git status"
+# alias gd="git diff"
+alias h="history"
 # alias j="jobs"
 
 # Detect which `ls` flavor is in use
